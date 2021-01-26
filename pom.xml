@@ -128,7 +128,7 @@
             <configuration>
               <wsdlOptions>
                 <wsdlOption>
-                  <wsdl>https://www.dataaccess.com/webservicesserver/TextCasing.wso?wsdl</wsdl>
+                  <wsdl>http://www.gcomputer.net/webservices/dilbert.asmx?wsdl</wsdl>
                 </wsdlOption>
               </wsdlOptions>
             </configuration>
